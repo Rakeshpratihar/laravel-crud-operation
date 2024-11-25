@@ -1,0 +1,18 @@
+body{
+    background-color:grey;
+}
+.container{
+    margin:10% 30%;
+    height:300px;
+    width:300px;
+    border:2px solid black;
+    border-radius: 10%;
+}
+input{
+    border-radius: 10%;
+}
+button{
+    font-size: 20px;
+    position:relative;
+    right: 5px;
+}
